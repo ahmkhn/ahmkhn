@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 👋, I'm Ahmed Khan</h1>
 <h3 align="center">Aspiring Software Engineer, CS @ UMass</h3>
 
-- 🔭 I’m currently working on [Decolonizing Social Sciences in Pakistan (please check it out!)](https://dssp.app)
+- 🔭 I’m currently working on [Decolonizing Social Sciences in Pakistan](https://dssp.app) (please check it out!)
 
 - 📫 How to reach me **ahmkhnwork@gmail.com**
 
