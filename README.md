@@ -1,11 +1,11 @@
-<h1 align="center">Hello! 👋, I'm Ahmed Khan</h1>
-<h3 align="center">Aspiring Software Engineer, CS @ UMass</h3>
+<h1 align="center">ahmed khan || ahmkhn</h1>
+<h3 align="center">aspiring software engineer, cs @ umass amherst</h3>
 
-- 🔭 I’m currently working on [Decolonizing Social Sciences in Pakistan](https://dssp.app) (please check it out!)
+- 🔭 i’m currently working on [bias inspector](https://bias-app.com) (please check it out!)
 
-- 📫 How to reach me **ahmkhnwork@gmail.com**
+- 📫 how to reach me **ahmkhnwork@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmkhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmkhn" height="30" width="40" /></a>
 </p>
