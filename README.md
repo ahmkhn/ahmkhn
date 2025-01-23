@@ -3,7 +3,7 @@
 
 - 🔭 i’m currently working on [bias inspector](https://bias-app.com) (please check it out!)
 
-- 📫 how to reach me **ahmkhnwork@gmail.com**
+- 📫 how to reach me **ahmedkhan@umass.edu**
 
 <h3 align="left">connect with me:</h3>
 <p align="left">
